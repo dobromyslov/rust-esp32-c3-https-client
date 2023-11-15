@@ -1,4 +1,4 @@
-# HTTPS Client for the ESP32-C3 chip
+# Rust HTTPS Client for the ESP32-C3 chip
 
 Tested on the [Rust ESP Board](https://github.com/esp-rs/esp-rust-board).
 
